@@ -13,6 +13,7 @@ Gem::Specification.new do |s|
   s.requirements = ["none"]
   s.rubygems_version = "2.1.10"
   s.summary = "Add gem summary here"
+  s.authors = "Add gem authors here"
 
   if s.respond_to? :specification_version then
     s.specification_version = 4
